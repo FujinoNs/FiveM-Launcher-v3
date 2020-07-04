@@ -35,7 +35,7 @@ Public Class Form2
     Private Sub GunaButton4_Click(sender As Object, e As EventArgs) Handles GunaButton4.Click
         Shell("Explorer.exe https://www.facebook.com/") 'แก้ลิงค์ตรงนนี้'
     End Sub
-    'ตรงนี้ปุ่ม SERVER RULE'
+    'ตรงนี้ปุ่ม SERVER RULES'
     Private Sub GunaButton5_Click(sender As Object, e As EventArgs) Handles GunaButton5.Click
         Shell("Explorer.exe https://i.pinimg.com/originals/c9/22/68/c92268d92cf2dbf96e3195683d9e14fb.png") 'แก้ลิงค์ตรงนนี้'
     End Sub
